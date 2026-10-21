@@ -12,3 +12,5 @@ js/script.js    → rellotge, comptador i info de l'entorn
 ```
 
 ## Escriu el teu nom ací baix
+Victor Arcon 
+https://victorarcon.github.io/
